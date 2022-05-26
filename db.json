@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "mariano",
+      "email": "mariano.maciasgandulfo@gmail.com",
+      "telefono": "01139570431",
+      "empresa": "casa en argentina",
+      "id": 1
+    },
+    {
+      "nombre": "lara",
+      "email": "laravaro@gmail.com",
+      "telefono": "321654",
+      "empresa": "casa",
+      "id": 2
+    },
+    {
+      "nombre": "nicolas",
+      "email": "negro@feo.com",
+      "telefono": "123",
+      "empresa": "bajo la pollera",
+      "id": 3
+    }
+  ]
+}
